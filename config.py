@@ -1,0 +1,5 @@
+CLIENT_ID = 'oxdct6yzdfO0PF7psCfG7Q'
+CLIENT_SECRET = 'XaAnUh4jPt2qwvYc6VFEWNgpjJb_ew'
+USER_AGENT = 'TAD_Python'
+USERNAME = 'bootyofgod666'
+PASSWORD = 'Broccoli9!'
